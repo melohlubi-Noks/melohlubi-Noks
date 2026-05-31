@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm melohlubi-Noks! 👋
+
+I am a developer focused on building modern applications and leveraging AI-powered development tools to create efficient code.
+
+## 🚀 About Me
+- 🔭 I’m currently focused on building web applications and software projects.
+- 🌱 I’m continuously expanding my technical skillset and mastering modern workflows.
+- 🛠️ I build and optimize projects using **Cursor AI** as my primary development environment.
+
+## 🛠️ Tools & Tech
+- **Editor:** Cursor
+- **Platform:** GitHub & Git Version Control
+
+---
+*“Building the future, one commit at a time.”*
+
